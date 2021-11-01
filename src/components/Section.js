@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 const Section = styled.section`
-  backgroung-color: #eee;
+  background-color: #eee;
   border-top: solid 2px palevioletred;
   padding: 20px 25px;
   width: 500px;
